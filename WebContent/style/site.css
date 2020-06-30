@@ -1,0 +1,191 @@
+
+
+
+#meuB{
+	max-width:400;
+	margin: 0px;
+	position:absolute;
+	top : 100px;
+}
+
+.fotoPerfil{
+	
+	width:200px;
+	height:100px;
+}
+#corpo{
+	width:1000px;
+	background :#DCDCDC;
+	margin-left: 50px;
+	position:absolute;
+	top:300px;
+	height:600px;
+
+}
+
+#campoAnimal{
+	
+	width: 600px;
+	margin-left: 100px;
+	
+}
+
+#td{
+	whith:100px;
+	text-align: center;
+}
+
+#corpoTelaPerfil{
+	width:900px;
+	margin-left: 200px;
+	position:absolute;
+	top:100px;
+	height:800px;
+	background :#DCDCDC;
+	width:700px;
+	
+	padding-left: 20px;
+	padding-top:40px;
+	
+
+}
+
+#perfil{
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background :#DCDCDC;
+	padding-left:10px;
+	paddig-right:auto;
+	
+
+	
+}
+
+#login{
+	width:300px;
+	position:absolute;
+	top:300px;
+	right:50px;
+	background :#DCDCDC;
+}
+
+#Titulologin{
+	font-size:30px;
+	text-align : center;
+	color:#fff;
+}
+#usuario{
+	font-size:20px;
+	text-align : center;
+	
+}
+#endereco{
+	text-align: center;
+	font-size:30px;
+	
+}
+
+
+
+#bemVindo{
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background :#DCDCDC;
+	padding-left:10px;
+	paddig-right:auto;
+
+	
+}
+.bem{
+	 font-family: impact;
+	  font-size: 48px;
+	   font-style: normal; 
+	   font-variant: normal; 
+	   font-weight: 700;
+	   color:#008B8B;
+	   
+	   
+}
+.bemh2{
+	font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+	font-size: 24px; 
+	font-style: normal; 
+	font-variant: normal
+	
+}
+
+
+
+#tituloF{
+	text-align:center;
+	font-size:50px;
+	color:#fff;
+}
+#formulario{
+	padding-left: 10px;
+}
+
+#corpoCadastro{
+	
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 100px;
+	padding:10px auto 10px auto;
+	background :#DCDCDC;
+	
+	
+	
+}
+
+#adotar{
+	width:400px;
+	height:100px;
+	margin-left:300px;
+	background :#DCDCDC;
+	padding-top: 50px;
+	padding-left: 130px;
+	
+	
+}
+
+#doar{
+	width:400px;
+	height:100px;
+	margin-left:300px;
+	top:200px;
+	position:absolute;
+	background :#DCDCDC;
+	padding-top: 50px;
+	padding-left: 140px;
+
+	
+	
+}
+
+#meuPerfil{
+	width:400px;
+	height:100px;
+	margin-left:300px;
+	top:300px;
+	position:absolute;
+	background :#DCDCDC;
+	padding-top: 50px;
+	padding-left: 90px;
+
+	
+	
+}
+
+
+#cabePet{
+	text-align: center;
+	margin-top:100px;
+	margin left:100px;
+	font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+	font-size: 24px; 
+	font-style: normal; 
+	font-variant: normal
+}
